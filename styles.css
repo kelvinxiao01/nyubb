@@ -1,0 +1,97 @@
+#title {
+  background-color: #6a0dad;
+}
+
+#about {
+  background-color: #6a0dad;
+  color: white;
+}
+
+#eboard {
+  background-color: #6a0dad;
+  color: white;
+}
+
+#contactus {
+  background-color: #6a0dad;
+  color: white;
+  padding-top: 3%;
+}
+
+h1 {
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: bold;
+  padding-top: 3%;
+}
+
+h3 {
+  text-align: center;
+  font-family: ubuntu;
+  font-weight: bold;
+}
+
+p {
+  text-align: center;
+  font-family: ubuntu;
+  font-weight: bold;
+  padding-top: 3%;
+  margin: 0 100px 0 100px;
+}
+
+/*
+img {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+*/
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.navbar-brand {
+  float: left;
+}
+
+.center {
+  text-align: center;
+  width: 100%;
+}
+
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+.row {
+  padding-top: 3%;
+}
+
+.eboardmem {
+  width: 50%;
+  margin: 100px auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.imgfl {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-right: 30px;
+}
+
+.imgfr {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  float: right;
+  margin-left: 30px;
+}
